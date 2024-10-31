@@ -10,5 +10,7 @@ i am passionate in frontend skills
 
 this is my second commit main branch 
 
-
+hi hello
 now i am going to show my codng skills
+
+ya right.
